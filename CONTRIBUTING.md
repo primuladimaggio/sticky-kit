@@ -18,4 +18,4 @@ building/minifying the JS files, it will automatically be done on the next versi
 can see how it's done in the
 [Makefile](https://github.com/leafo/sticky-kit/blob/master/Makefile).
 
-Thanks
+Thank's
